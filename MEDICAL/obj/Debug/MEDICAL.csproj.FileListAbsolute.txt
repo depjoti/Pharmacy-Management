@@ -1,0 +1,68 @@
+E:\MEERA ACADEMY\TATVA\MEDICAL\MEDICAL\bin\Debug\MEDICAL.exe
+E:\MEERA ACADEMY\TATVA\MEDICAL\MEDICAL\bin\Debug\MEDICAL.pdb
+E:\MEERA ACADEMY\TATVA\MEDICAL\MEDICAL\obj\Debug\ResolveAssemblyReference.cache
+E:\MEERA ACADEMY\TATVA\MEDICAL\MEDICAL\obj\Debug\MEDICAL.Properties.Resources.resources
+E:\MEERA ACADEMY\TATVA\MEDICAL\MEDICAL\obj\Debug\MEDICAL.csproj.GenerateResource.Cache
+E:\MEERA ACADEMY\TATVA\MEDICAL\MEDICAL\obj\Debug\MEDICAL.exe
+E:\MEERA ACADEMY\TATVA\MEDICAL\MEDICAL\obj\Debug\MEDICAL.pdb
+E:\MEERA ACADEMY\TATVA\MEDICAL\MEDICAL\obj\Debug\MEDICAL.Form1.resources
+E:\MEERA ACADEMY\TATVA\MEDICAL\MEDICAL\obj\Debug\MEDICAL.ADDItem.resources
+E:\MEERA ACADEMY\TATVA\MEDICAL\MEDICAL\bin\Debug\MEDICAL.exe.config
+E:\MEERA ACADEMY\TATVA\MEDICAL\MEDICAL\obj\Debug\MEDICAL.UserMst.resources
+E:\MEERA ACADEMY\TATVA\MEDICAL\MEDICAL\obj\Debug\MEDICAL.Company.resources
+E:\MEERA ACADEMY\TATVA\MEDICAL\MEDICAL\obj\Debug\MEDICAL.Client.resources
+E:\MEERA ACADEMY\TATVA\MEDICAL\MEDICAL\obj\Debug\MEDICAL.SELL.resources
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\bin\Debug\MEDICAL.exe.config
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\obj\Debug\MEDICAL.exe
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\obj\Debug\MEDICAL.pdb
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\bin\Debug\MEDICAL.exe
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\bin\Debug\MEDICAL.pdb
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\obj\Debug\MEDICAL.ADDItem.resources
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\obj\Debug\MEDICAL.Client.resources
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\obj\Debug\MEDICAL.Company.resources
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\obj\Debug\MEDICAL.Form1.resources
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\obj\Debug\MEDICAL.Properties.Resources.resources
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\obj\Debug\MEDICAL.SELL.resources
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\obj\Debug\MEDICAL.UserMst.resources
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\obj\Debug\MEDICAL.csprojResolveAssemblyReference.cache
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\obj\Debug\MEDICAL.csproj.GenerateResource.Cache
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\obj\Debug\MEDICAL.StockReport.resources
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\obj\Debug\MEDICAL.SellReport.resources
+G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL\obj\Debug\MEDICAL.TotalStockReport.resources
+F:\C#\MEDICAL\MEDICAL\bin\Debug\MEDICAL.exe.config
+F:\C#\MEDICAL\MEDICAL\obj\Debug\MEDICAL.exe
+F:\C#\MEDICAL\MEDICAL\obj\Debug\MEDICAL.pdb
+F:\C#\MEDICAL\MEDICAL\bin\Debug\MEDICAL.exe
+F:\C#\MEDICAL\MEDICAL\bin\Debug\MEDICAL.pdb
+F:\C#\MEDICAL\MEDICAL\obj\Debug\MEDICAL.csprojResolveAssemblyReference.cache
+F:\C#\MEDICAL\MEDICAL\obj\Debug\MEDICAL.ADDItem.resources
+F:\C#\MEDICAL\MEDICAL\obj\Debug\MEDICAL.Client.resources
+F:\C#\MEDICAL\MEDICAL\obj\Debug\MEDICAL.Company.resources
+F:\C#\MEDICAL\MEDICAL\obj\Debug\MEDICAL.Form1.resources
+F:\C#\MEDICAL\MEDICAL\obj\Debug\MEDICAL.Properties.Resources.resources
+F:\C#\MEDICAL\MEDICAL\obj\Debug\MEDICAL.SELL.resources
+F:\C#\MEDICAL\MEDICAL\obj\Debug\MEDICAL.SellReport.resources
+F:\C#\MEDICAL\MEDICAL\obj\Debug\MEDICAL.StockReport.resources
+F:\C#\MEDICAL\MEDICAL\obj\Debug\MEDICAL.TotalStockReport.resources
+F:\C#\MEDICAL\MEDICAL\obj\Debug\MEDICAL.UserMst.resources
+F:\C#\MEDICAL\MEDICAL\obj\Debug\MEDICAL.csproj.GenerateResource.Cache
+E:\Ashirbad\MEDICAL\bin\Debug\MEDICAL.exe.config
+E:\Ashirbad\MEDICAL\obj\Debug\MEDICAL.exe
+E:\Ashirbad\MEDICAL\obj\Debug\MEDICAL.pdb
+E:\Pharamacy Management System\MEDICAL\bin\Debug\MEDICAL.exe.config
+E:\Pharamacy Management System\MEDICAL\obj\Debug\MEDICAL.exe
+E:\Pharamacy Management System\MEDICAL\obj\Debug\MEDICAL.pdb
+E:\Pharamacy Management System\MEDICAL\bin\Debug\MEDICAL.exe
+E:\Pharamacy Management System\MEDICAL\bin\Debug\MEDICAL.pdb
+E:\Pharamacy Management System\MEDICAL\obj\Debug\MEDICAL.csprojResolveAssemblyReference.cache
+E:\Pharamacy Management System\MEDICAL\obj\Debug\MEDICAL.ADDItem.resources
+E:\Pharamacy Management System\MEDICAL\obj\Debug\MEDICAL.Client.resources
+E:\Pharamacy Management System\MEDICAL\obj\Debug\MEDICAL.Company.resources
+E:\Pharamacy Management System\MEDICAL\obj\Debug\MEDICAL.Form1.resources
+E:\Pharamacy Management System\MEDICAL\obj\Debug\MEDICAL.Properties.Resources.resources
+E:\Pharamacy Management System\MEDICAL\obj\Debug\MEDICAL.SELL.resources
+E:\Pharamacy Management System\MEDICAL\obj\Debug\MEDICAL.SellReport.resources
+E:\Pharamacy Management System\MEDICAL\obj\Debug\MEDICAL.StockReport.resources
+E:\Pharamacy Management System\MEDICAL\obj\Debug\MEDICAL.TotalStockReport.resources
+E:\Pharamacy Management System\MEDICAL\obj\Debug\MEDICAL.UserMst.resources
+E:\Pharamacy Management System\MEDICAL\obj\Debug\MEDICAL.csproj.GenerateResource.Cache
