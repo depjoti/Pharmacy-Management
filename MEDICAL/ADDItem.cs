@@ -149,7 +149,7 @@ namespace MEDICAL
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Are you sure !! You want to Delete Stock !!", "Medical system", MessageBoxButtons.OKCancel) == DialogResult.OK)
+            if (MessageBox.Show("Are you sure?! You want to Delete Stock !!", "Medical system", MessageBoxButtons.OKCancel) == DialogResult.OK)
             {
 
                 //int del = SAdapter.Delete(Convert.ToInt32(comboBox2.SelectedValue));
